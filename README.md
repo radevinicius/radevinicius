@@ -7,7 +7,7 @@ Bem vindo(a)!
 
 
 - 🔭 Atualmente estou trabalhando em criar meu portfolio !
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Flutter
 - 📫 Entre em contato comigo pelo e-mail:  radevinicius@gmail.com
 - 😄 Pronouns: ele/dele
 <div>
